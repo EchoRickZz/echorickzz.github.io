@@ -70,31 +70,31 @@ publications:
     title: Publications
     conference:
       - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
-        authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, _Xin Yao_, Chenglei Wu, Lifeng Sun 
+        authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
         conference: To appear in ACM MM 2019
 
       - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
-        authors: Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, _Xin Yao_, Chenglei Wu, Jiangchuan Liu, Lifeng Sun
+        authors: "Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, **Xin Yao**, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
         conference: To appear in ACM MM 2019
 
       - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
-        authors: Tianchi Huang, Rui-Xiao Zhang, _Xin Yao_, Chenglei Wu, Lifeng Sun
+        authors: "Tianchi Huang, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
         conference: To appear in SIGCOMM 2019 posters & demos
 
       - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
-        authors: _Xin Yao_, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun
+        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun"
         conference: To appear in ICIP 2019
 
       - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
-        authors: Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, _Xin Yao_, Chenglei Wu, Lifeng Sun
-        conference: NOSSDAV 2019 (_Best Student Paper_) 
+        authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
+        conference: "NOSSDAV 2019 (**Best Student Paper**)"
 
       - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
-        authors: Tianchi Huang, _Xin Yao_, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun
+        authors: "Tianchi Huang, **Xin Yao**, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun"
         conference: ICME 2019
 
       - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
-        authors: _Xin Yao_, Chaofeng Huang, Lifeng Sun
+        authors: "**Xin Yao**, Chaofeng Huang, Lifeng Sun"
         conference: VCIP 2019
 
     journal:
