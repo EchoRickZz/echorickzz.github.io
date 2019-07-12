@@ -46,6 +46,7 @@ about-me:
     summary: |
       Currently I am a Ph.D student in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.
       I received my bachelor degree from Department of Computer Science and Technology at Tsinghua University in 2016.
+
       My research interests focus on the federated learning, lifelong/continual learning and domain adaptation.
 
 education:
@@ -98,7 +99,7 @@ publications:
 
     journal:
       - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
-        authors: _Xin Yao_, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun
+        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun"
         journal: To appear in Neural Computation
 
 skills:
