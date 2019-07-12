@@ -166,6 +166,14 @@ p {
         margin-top: 0;
         margin-bottom: 20px;
     }
+    .subsection {
+        font-size: 16px;
+        font-weight: 500;
+        color: darken($theme-color, 15%);
+        position: relative;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
     .section {
         margin-bottom: 60px;
     }

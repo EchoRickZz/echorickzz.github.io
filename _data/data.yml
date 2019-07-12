@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level:
+        level: |
 
     interests:
       - item: Travelling
@@ -64,7 +64,6 @@ experiences:
       time: 2019.07 - Present
       company: Youtu X-Lab, Tencent, Shenzhen, China
       details: |
-        A visiting student at Youtu X-Lab, Tencent.
 
 publications:
     title: Publications
