@@ -53,18 +53,18 @@ education:
     - degree: Ph.D candidate in Computer Science
       university: Tsinghua University
       time: 2016 - present
-      details: |
+      details:
 
     - degree: Bachelor in Computer Science
       university: Tsinghua University
       time: 2012 - 2016
-      details: |
+      details:
 
 experiences:
     - role: Research Intern
       time: 2019.07 - Present
       company: Youtu X-Lab, Tencent, Shenzhen, China
-      details: |
+      details:
 
 publications:
     title: Publications
@@ -120,6 +120,12 @@ skills:
 
       - name: LaTex
         level: 95%
+
+talks:
+
+awards:
+
+academic_services:
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
