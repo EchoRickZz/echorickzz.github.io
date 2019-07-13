@@ -95,7 +95,7 @@ publications:
 
       - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
         authors: "**Xin Yao**, Chaofeng Huang, Lifeng Sun"
-        conference: VCIP 2019
+        conference: VCIP 2018
 
     journal:
       - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
