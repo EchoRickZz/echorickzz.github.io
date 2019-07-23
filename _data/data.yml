@@ -103,23 +103,23 @@ publications:
         journal: To appear in Neural Computation
 
 skills:
-    title: Skills &amp; Proficiency
+    # title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 98%
+    # toolset:
+    #   - name: Python
+    #     level: 98%
 
-      - name: PyTorch & TensorFlow
-        level: 95%
+    #   - name: PyTorch & TensorFlow
+    #     level: 95%
 
-      - name: Linux & Docker
-        level: 90%
+    #   - name: Linux & Docker
+    #     level: 90%
 
-      - name: Javascript & NodeJS
-        level: 70%
+    #   - name: Javascript & NodeJS
+    #     level: 70%
 
-      - name: LaTex
-        level: 95%
+    #   - name: LaTex
+    #     level: 95%
 
 talks:
 
