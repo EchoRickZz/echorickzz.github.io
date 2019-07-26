@@ -44,10 +44,9 @@ sidebar:
 about-me:
     title: About Me
     summary: |
-      Currently I am a Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.
-      I received my bachelor's degree from the Department of Computer Science and Technology at Tsinghua University in 2016.
-
-      My research interests focus on the federated learning, lifelong/continual learning and domain adaptation.
+      I received my B.E degree in Electronic Engineering Department in Tsinghua University in 2017. 
+      Currently, I'm pursuing my Ph.D candidate in Department of Computer Science and Technology, Tsinghua University, China. 
+      My research interests lie in the area of content delivery networks, the optimization of multimedia streaming and reinforcement learning.
 
 education:
     - degree: Ph.D. Candidate in Computer Science
