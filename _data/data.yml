@@ -76,9 +76,21 @@ publications:
         authors: "**Rui-Xiao Zhang**, Ming Ma, Tianchi Huang, Haitian Pang, Xin Yao, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
         conference: To appear in ACM MM 2019
         
+      - title: "Reactive Video Caching via long-short-term fusion approach"
+        authors: "**Rui-Xiao Zhang**, Tianchi Huang, Chenglei Wu, Xin Yao, Lifeng Sun"
+        conference: Arxiv
+      
       - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
         authors: "Tianchi Huang, Chao Zhou, **Rui-Xiao Zhang**, Xin Yao, Chenglei Wu, Lifeng Sun"
         conference: To appear in ACM MM 2019
+        
+      - title: "QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning"
+        authors: "Tianchi Huang, **Rui-Xiao Zhang**, Chao Zhou, Lifeng Sun"
+        conference: ACM MM 2018
+        
+      - title: "Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network"
+        authors: "Tianchi Huang, **Rui-Xiao Zhang**, Chao Zhou, Lifeng Sun"
+        conference: NOSSDAV 2018
 
       - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
         authors: "Tianchi Huang, **Rui-Xiao Zhang**, Xin Yao, Chenglei Wu, Lifeng Sun"
@@ -91,6 +103,8 @@ publications:
       - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
         authors: "Tianchi Huang, Xin Yao, Chenglei Wu, **Rui-Xiao Zhang**, Zhengyuan Pang, Lifeng Sun"
         conference: ICME 2019
+       
+      
 
 
     journal:
