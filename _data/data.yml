@@ -7,16 +7,16 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Xin Yao (姚鑫)
+    name: Rui-Xiao Zhang (张睿霄)
     tagline: Ph.D. Candidate
     avatar: 2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: yaox12@outlook.com
+    email: 389139970@qq.com
     # phone: 012 345 6789
-    website: yaox12.github.io #do not add http://
-    linkedin: yaox12
-    github: yaox12
+    website: echorickzz.github.io #do not add http://
+    # linkedin: yaox12
+    github: echorickzz
     # gitlab:
     # bitbucket:
     # twitter: '@webjeda'
@@ -52,54 +52,51 @@ about-me:
 education:
     - degree: Ph.D. Candidate in Computer Science
       university: Tsinghua University
-      time: 2016 - present
+      time: 2017 - present
       details:
 
-    - degree: Bachelor in Computer Science
+    - degree: Bachelor in Electronic Engineering
       university: Tsinghua University
-      time: 2012 - 2016
+      time: 2013 - 2017
       details:
 
 experiences:
     - role: Research Intern
       time: 2019.07 - Present
-      company: Youtu X-Lab, Tencent, Shenzhen, China
+      company: AI-LAB, Tencent, Shenzhen, China
       details:
 
 publications:
     title: Publications
     conference:
-      - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
-        authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: To appear in ACM MM 2019
-
+      - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
+        authors: "**Rui-Xiao Zhang**, Tianchi Huang, Ming Ma, Haitian Pang, Xin Yao, Chenglei Wu, Lifeng Sun"
+        conference: "NOSSDAV 2019 (**Best Student Paper**)"
+        
       - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
-        authors: "Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, **Xin Yao**, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
+        authors: "**Rui-Xiao Zhang**, Ming Ma, Tianchi Huang, Haitian Pang, Xin Yao, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
+        conference: To appear in ACM MM 2019
+        
+      - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
+        authors: "Tianchi Huang, Chao Zhou, **Rui-Xiao Zhang**, Xin Yao, Chenglei Wu, Lifeng Sun"
         conference: To appear in ACM MM 2019
 
       - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
-        authors: "Tianchi Huang, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
+        authors: "Tianchi Huang, **Rui-Xiao Zhang**, Xin Yao, Chenglei Wu, Lifeng Sun"
         conference: To appear in SIGCOMM 2019 posters & demos
 
       - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
-        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun"
+        authors: "Xin Yao, Tianchi Huang, Chenglei Wu, **Ruixiao Zhang**, Lifeng Sun"
         conference: To appear in ICIP 2019
 
-      - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
-        authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "NOSSDAV 2019 (**Best Student Paper**)"
-
       - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
-        authors: "Tianchi Huang, **Xin Yao**, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun"
+        authors: "Tianchi Huang, Xin Yao, Chenglei Wu, **Rui-Xiao Zhang**, Zhengyuan Pang, Lifeng Sun"
         conference: ICME 2019
 
-      - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
-        authors: "**Xin Yao**, Chaofeng Huang, Lifeng Sun"
-        conference: VCIP 2018
 
     journal:
       - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
-        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun"
+        authors: "Xin Yao, Tianchi Huang, Chenglei Wu, **Ruixiao Zhang**, Lifeng Sun"
         journal: To appear in Neural Computation
 
 skills:
