@@ -71,6 +71,7 @@ publications:
       - title: "A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video"
         authors: "Chenglei Wu, **Rui-Xiao Zhang**, Zhi Wang, Lifeng Sun"
         conference: "To appear in AAAI-20"
+        link:
     
       - title: "Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating"
         authors: "Xin Yao, Tianchi Huang, **Rui-Xiao Zhang**, Ruiyu Li, Lifeng Sun"
@@ -105,18 +106,22 @@ publications:
       - title: "Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network"
         authors: "Tianchi Huang, **Rui-Xiao Zhang**, Chao Zhou, Lifeng Sun"
         conference: NOSSDAV 2018
+        link:
 
       - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
         authors: "Tianchi Huang, **Rui-Xiao Zhang**, Xin Yao, Chenglei Wu, Lifeng Sun"
         conference: SIGCOMM 2019 posters & demos
+        link:
 
       - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
         authors: "Xin Yao, Tianchi Huang, Chenglei Wu, **Ruixiao Zhang**, Lifeng Sun"
         conference: ICIP 2019
+        link:
 
       - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
         authors: "Tianchi Huang, Xin Yao, Chenglei Wu, **Rui-Xiao Zhang**, Zhengyuan Pang, Lifeng Sun"
         conference: ICME 2019
+        link:
        
       
 
